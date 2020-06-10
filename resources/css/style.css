@@ -1,0 +1,10 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.work_new_site{
+	background-image: url('../img/background.png');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
